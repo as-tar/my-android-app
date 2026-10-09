@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">My App</string>
+
+    <string name="main_title">Интенты</string>
+    <string name="input_label">Введите текст или номер</string>
+
+    <string name="open_second">Открыть вторую Activity</string>
+    <string name="dial">Позвонить другу</string>
+    <string name="share">Поделиться текстом</string>
+    <string name="share_chooser_title">Поделиться через…</string>
+    <string name="back">Назад</string>
+
+    <string name="second_title">Вторая Activity</string>
+
+    <string name="error_empty">Введите текст</string>
+    <string name="error_phone">Введите корректный номер телефона</string>
+    <string name="error_no_dialer">Не найдено приложение для звонков</string>
+    <string name="error_no_share_apps">Нет приложений для отправки текста</string>
 </resources>
